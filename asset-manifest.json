@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.21adedd5.css",
-    "main.js": "/static/js/main.e63e1c2d.js",
+    "main.js": "/static/js/main.4460b9fd.js",
     "static/js/341.0f1c4c27.chunk.js": "/static/js/341.0f1c4c27.chunk.js",
     "static/js/182.0f1c4c27.chunk.js": "/static/js/182.0f1c4c27.chunk.js",
     "static/js/40.224d260e.chunk.js": "/static/js/40.224d260e.chunk.js",
@@ -26,7 +26,7 @@
     "static/media/apple.svg": "/static/media/apple.53e40ce61e88bc7d06c1ac45c878cf1b.svg",
     "static/media/facebook.svg": "/static/media/facebook.7da1aa4dda28b9b0d38712b1cdc985dd.svg",
     "main.21adedd5.css.map": "/static/css/main.21adedd5.css.map",
-    "main.e63e1c2d.js.map": "/static/js/main.e63e1c2d.js.map",
+    "main.4460b9fd.js.map": "/static/js/main.4460b9fd.js.map",
     "341.0f1c4c27.chunk.js.map": "/static/js/341.0f1c4c27.chunk.js.map",
     "182.0f1c4c27.chunk.js.map": "/static/js/182.0f1c4c27.chunk.js.map",
     "40.224d260e.chunk.js.map": "/static/js/40.224d260e.chunk.js.map",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.21adedd5.css",
-    "static/js/main.e63e1c2d.js"
+    "static/js/main.4460b9fd.js"
   ]
 }
