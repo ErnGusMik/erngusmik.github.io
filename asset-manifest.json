@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.21adedd5.css",
-    "main.js": "/static/js/main.4460b9fd.js",
-    "static/js/341.0f1c4c27.chunk.js": "/static/js/341.0f1c4c27.chunk.js",
-    "static/js/182.0f1c4c27.chunk.js": "/static/js/182.0f1c4c27.chunk.js",
-    "static/js/40.224d260e.chunk.js": "/static/js/40.224d260e.chunk.js",
-    "static/js/530.224d260e.chunk.js": "/static/js/530.224d260e.chunk.js",
+    "main.css": "/static/css/main.87025609.css",
+    "main.js": "/static/js/main.299f6c9d.js",
+    "static/js/341.3f9512a5.chunk.js": "/static/js/341.3f9512a5.chunk.js",
+    "static/js/182.3f9512a5.chunk.js": "/static/js/182.3f9512a5.chunk.js",
+    "static/js/40.81e72162.chunk.js": "/static/js/40.81e72162.chunk.js",
+    "static/js/530.81e72162.chunk.js": "/static/js/530.81e72162.chunk.js",
     "static/js/787.b1782397.chunk.js": "/static/js/787.b1782397.chunk.js",
     "static/media/backg3.jpg": "/static/media/backg3.8a3fa317152c92aa21bf.jpg",
     "static/media/backg2.jpg": "/static/media/backg2.4a15a277ad5414e43d47.jpg",
     "static/media/defaultBackg.jpg": "/static/media/defaultBackg.c65e3ff95a54c44a6514.jpg",
     "static/media/main.jpg": "/static/media/main.bd3161d510142bd8119e.jpg",
     "static/media/backg4.jpg": "/static/media/backg4.3b735b54bb2250122a6d.jpg",
-    "static/media/banner.png": "/static/media/banner.70ce4a5f87315dca0560.png",
+    "static/media/banner.png": "/static/media/banner.1c6f6e626c6dbcfe2871.png",
     "static/media/Montserrat-Black.ttf": "/static/media/Montserrat-Black.66b7bf1fd711f24ea6fd.ttf",
     "static/media/backg6disp.png": "/static/media/backg6disp.3a09d22e3ab6b9ab0443.png",
     "static/media/backg6.png": "/static/media/backg6.b301df87aa5f50334de8.png",
@@ -25,16 +25,16 @@
     "static/media/google.svg": "/static/media/google.8b73ee19767242bb7bc0c345c9a9a78b.svg",
     "static/media/apple.svg": "/static/media/apple.53e40ce61e88bc7d06c1ac45c878cf1b.svg",
     "static/media/facebook.svg": "/static/media/facebook.7da1aa4dda28b9b0d38712b1cdc985dd.svg",
-    "main.21adedd5.css.map": "/static/css/main.21adedd5.css.map",
-    "main.4460b9fd.js.map": "/static/js/main.4460b9fd.js.map",
-    "341.0f1c4c27.chunk.js.map": "/static/js/341.0f1c4c27.chunk.js.map",
-    "182.0f1c4c27.chunk.js.map": "/static/js/182.0f1c4c27.chunk.js.map",
-    "40.224d260e.chunk.js.map": "/static/js/40.224d260e.chunk.js.map",
-    "530.224d260e.chunk.js.map": "/static/js/530.224d260e.chunk.js.map",
+    "main.87025609.css.map": "/static/css/main.87025609.css.map",
+    "main.299f6c9d.js.map": "/static/js/main.299f6c9d.js.map",
+    "341.3f9512a5.chunk.js.map": "/static/js/341.3f9512a5.chunk.js.map",
+    "182.3f9512a5.chunk.js.map": "/static/js/182.3f9512a5.chunk.js.map",
+    "40.81e72162.chunk.js.map": "/static/js/40.81e72162.chunk.js.map",
+    "530.81e72162.chunk.js.map": "/static/js/530.81e72162.chunk.js.map",
     "787.b1782397.chunk.js.map": "/static/js/787.b1782397.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21adedd5.css",
-    "static/js/main.4460b9fd.js"
+    "static/css/main.87025609.css",
+    "static/js/main.299f6c9d.js"
   ]
 }
